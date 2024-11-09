@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Louis Cramer and I work as a Test automation engineer currently.
+- 👋 Hi, I’m @Louis Cramer and I work as a cloud engineer currently.
+- I am also working as a senior test engineer for a medical device company.
 - 👀 I’m certified in AWS cloud architecture and Terraform.
 - 🌱 I’m currently learning AWS cloud services, Python, Jenkins, Kubernetes, and test automation
 - I am also working on machine learning models and libraries such as TensorFlow and PyTorch.
